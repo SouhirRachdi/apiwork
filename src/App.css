@@ -1,0 +1,10 @@
+.contain{
+  display: flex;
+gap: 10px;
+  flex-wrap: wrap;
+  margin-top: 30px;
+  margin-left: 30px;
+
+}
+
+
